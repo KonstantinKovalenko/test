@@ -1,3 +1,4 @@
+conflict second branch test line
 testing line
 untesting line
 commit test
